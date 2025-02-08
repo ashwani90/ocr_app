@@ -5,3 +5,6 @@ torchvision
 pytesseract 
 pdf2image 
 pillow
+fastapi 
+uvicorn 
+python-multipart
